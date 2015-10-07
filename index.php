@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+//hello3
 /**
  * Si l'utilisateur se rend sur la page d'identification,
  * déjà identifié, il est redirigé vers la page d'accueil
@@ -35,3 +35,4 @@ require 'include/connexion.php';
         </div>
     </body>
 </html>
+
